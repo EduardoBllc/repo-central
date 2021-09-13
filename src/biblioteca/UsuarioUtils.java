@@ -6,4 +6,8 @@ public class UsuarioUtils {
 		
 		return false;
 	}
+	
+	public void recuperacaoSenha() {
+		
+	}
 }
